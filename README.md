@@ -19,8 +19,15 @@ Sistema de información web que permite gestionar **solicitudes de préstamos de
 
 ## 👥 Integrantes del proyecto
 
-| # | Integrante |
-|---|---|
+| Integrante | Cargo | Responsabilidades principales |
+|---|---|---|
+| **Carlos Enrique Lizarazo** | Desarrollador Backend · Líder del proyecto | Diseño y administración de la base de datos, módulo de solicitudes, evaluación inteligente, generación de préstamos y cuotas, pagos, movimientos, billetera y panel administrativo. |
+| **Juan José Pérez Arana** | Desarrollador Frontend · Líder del proyecto | Diseño de la interfaz (UI/UX), módulos visibles para clientes y administradores, diseño responsive con Tailwind CSS e integración de la interfaz con la lógica del sistema. |
+| **Juan Manuel Cardona Patiño** | Desarrollador Full Stack | Desarrollo de lógica de negocio, integración de servicios, seguridad, autenticación y soporte en la conexión entre la base de datos y los módulos del sistema. |
+| **Jesús Gabriel Ortiz Saac** | Desarrollador Frontend / QA | Construcción de componentes de interfaz, pruebas de calidad, validación de flujos de usuario y control de errores en el front-end. |
+| **Brahian Alzate** | Desarrollador Backend | Apoyo en la creación de endpoints, estructuración de consultas, pruebas de servicios backend y documentación técnica del desarrollo. |
+
+---|---|
 | 1 | Carlos Enrique Lizarazo |
 | 2 | Juan José Pérez Arana |
 | 3 | Juan Manuel Cardona Patiño |
